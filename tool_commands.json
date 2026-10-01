@@ -1,0 +1,4 @@
+{
+  "nslookup": "nslookup {target}",
+  "dig": "dig {target}"
+}
